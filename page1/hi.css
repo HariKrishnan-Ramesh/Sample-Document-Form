@@ -1,0 +1,122 @@
+/* #form-body{
+    margin-left:40px;
+    margin-right: 10px;
+} */
+img{
+    margin-top: -60px;
+    margin-bottom: -70px;
+}
+#h2{
+    text-align: center;
+    font-family: 'Arial';
+    font-size: normal;
+    font-weight: 150;
+}
+#id1{
+    width:120px;
+    height:230px;
+    font-family: 'Arial';
+    font-weight:normal;
+    position:relative;
+    left:90px;
+    top:10px;
+    padding-top:10px;
+    background-color: rgb(198, 139, 239);
+}
+.h2{
+    text-align: center;
+    padding: 10px;;
+}
+#id2{
+    width:350px;
+    height:220px;
+    background-color: rgb(220, 196, 240);
+    position: relative;
+    left:240px;
+    top:-229px;
+    padding-top:20px;
+
+}
+.li{
+    padding:6px;
+    margin: 5px;
+    position:relative;
+    top:-7px;
+}
+#li1{
+    position:relative;
+    top:-15px;
+}
+#li2{
+    position:relative;
+    top:-5px;
+}
+#li3{
+    position:relative;
+    top:9px;
+}
+#id3{
+    width:120px;
+    height:230px;
+    font-family: 'Arial';
+    position:relative;
+    left:654px;
+    top:-469px;
+    padding-top:10px;
+    background-color: rgb(198, 139, 239);
+   
+}
+.cl2{
+    text-align: center;
+    padding:9px;
+}
+.ly{
+    padding:6px;
+    margin: 5px;
+    position:relative;
+    top:-7px;
+}
+#id4{
+    width:350px;
+    height:220px;
+    background-color: rgb(220, 196, 240);
+    position: relative;
+    left:804px;
+    top:-709px;
+    padding-top:20px;
+ 
+}
+#ly1{
+    position:relative;
+    top:-15px;
+}
+#ly2{
+    position:relative;
+    top:-5px;
+}
+#ly3{
+    position:relative;
+    top:9px;
+}
+#para{
+    margin-top:-700px;
+    margin-left:90px;
+    margin-right: 90px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+table,td,th{
+    border: solid 3px white;
+    border-collapse: collapse;
+    margin-left:85px;
+    padding:20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+#para2{
+    margin-left:85px;
+    margin-right:85px;
+    padding:4px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+
+
