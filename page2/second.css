@@ -1,5 +1,5 @@
 table,th,tr{
-    border:solid 2px black;
+    border:solid 3px white;
     border-collapse: collapse;
     margin-left:85px;
     margin-top: 70px;
@@ -9,6 +9,16 @@ table,th,tr{
     -webkit-transform: rotate(90deg);  /* Chrome, Opera 15+, Safari 3.1+ */
       -ms-transform: rotate(90deg);  /* IE 9 */
           transform: rotate(271deg);
-          font-size: xx-large;
+          /* font-size: xx-large; */
           width:5%
+}
+.head{
+    font-family:Arial, Helvetica, sans-serif
+}
+.assess{
+    background-color: rgb(198, 139, 239);
+    
+}
+#section{
+    background-color: rgb(220, 196, 240);
 }
