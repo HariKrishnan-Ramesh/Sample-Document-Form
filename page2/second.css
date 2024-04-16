@@ -22,3 +22,7 @@ table,th,tr{
 #section{
     background-color: rgb(220, 196, 240);
 }
+.table2{
+    border:solid 1px black;
+    width:80%
+}
