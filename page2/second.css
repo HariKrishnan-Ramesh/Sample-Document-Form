@@ -3,14 +3,14 @@ table,th,tr{
     border-collapse: collapse;
     margin-left:85px;
     margin-top: 70px;
-    padding:26px;
+    padding:25px;
 }
 .rotate{
     -webkit-transform: rotate(90deg);  /* Chrome, Opera 15+, Safari 3.1+ */
       -ms-transform: rotate(90deg);  /* IE 9 */
           transform: rotate(271deg);
-          /* font-size: xx-large; */
-          width:5%
+           /* font-size: ;  */
+          width:5%;
 }
 .head{
     font-family:Arial, Helvetica, sans-serif
@@ -19,10 +19,21 @@ table,th,tr{
     background-color: rgb(198, 139, 239);
     
 }
-#section{
+/* #section{
     background-color: rgb(220, 196, 240);
-}
+} */
 .table2{
-    border:solid 1px black;
-    width:80%
+    border:solid 1px white;
+    width:80%;
+   
+}
+.mytr{
+  border: 1px solid white;
+  background-color: rgb(220, 196, 240);
+}
+
+.myth{
+    border: 3px solid white;
+    width: 16px;
+
 }
